@@ -22,7 +22,7 @@ This project provides an in-depth analysis of market risk using advanced quantit
 - **Stress Testing:** Evaluated extreme market scenarios to identify potential portfolio vulnerabilities.
 
 2. **Data Analysis and Tools**
-- **Data Sources:** Extracted financial data from Yahoo Finance, Investing.com, and NSE/BSE for calculations.
+- **Data Sources:** Extracted financial data from [Yahoo Finance][Yahoo], [Investing.com][Investing], and [NSE][NSE], [BSE][BSE] for calculations.
 - **Tools Used:**
   - **Microsoft Excel:** Performed detailed calculations and summarized risk metrics.
   - **R Scripts:** Automated data extraction and statistical modeling.
@@ -42,6 +42,10 @@ This project showcases the application of scenario-based risk assessment to mana
 - Strategic financial decision-making for organizations.
 
 
+[Yahoo]: https://finance.yahoo.com/
+[NSE]: https://www.nseindia.com/
+[BSE]: https://www.bseindia.com/
+[Investing]: https://www.investing.com/
 [Excel]: https://github.com/ronak-shah08/Quant_Risk_Analytics-VaR-ES-StressTest/blob/main/Risk%20Calculations.xlsx
 [R file1]: https://github.com/ronak-shah08/Quant_Risk_Analytics-VaR-ES-StressTest/blob/main/Portfolio%20Analysis%20Script.R
 [R file2]: https://github.com/ronak-shah08/Quant_Risk_Analytics-VaR-ES-StressTest/blob/main/USD_INR%20Analysis%20Script.R
